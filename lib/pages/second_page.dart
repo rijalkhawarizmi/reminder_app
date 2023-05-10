@@ -73,7 +73,6 @@ class _SecondPageState extends State<SecondPage> {
               const SizedBox(
                 height: 10,
               ),
-              
             ],
           ),
         ),
